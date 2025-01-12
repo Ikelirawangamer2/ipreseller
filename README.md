@@ -10,9 +10,6 @@
 ### PERINTAH UPDATE 
 <pre><code>wget https://raw.githubusercontent.com/Ikelirawangamer2/VIP/main/files/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
-### FIX DROPBEAR
-<pre><code>wget https://raw.githubusercontent.com/Ikelirawangamer2/VIP/main/fix.sh && chmod +x fix.sh && ./fix.sh</code></pre>
-
 ### TESTED ON OS 
 - UBUNTU 20
 - DEBIAN 10 ( Recomended )
