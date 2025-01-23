@@ -1,0 +1,11 @@
+### USERNAME EXPIRED IPVPS RULE CREATEDBY
+# Format expired tahun-bulan-tanggal
+# CONTOH
+### MyVPSSG lifetime 159.223.49.58 admin MyVPSSG
+### MyVPSNDIA lifetime 194.238.18.240 admin MyVPSSG
+### MyVPNSG1 2999-12-31 104.248.145.61 admin MyVPSSG
+### MyVPNSG2 2999-12-31 165.22.102.145 admin MyVPSSG
+### MyID 2999-12-31 160.19.167.203 premium MyVPSSG
+### MySGDO 2999-12-31 139.59.102.92 premium MyVPSSG
+### MySGDO 2999-12-31 167.71.217.4 premium MyVPSSG
+### SGDO2 lifetime 159.223.70.90 reseller MyVPNSG1
